@@ -16,7 +16,7 @@ const CampaignBanner: React.FC = () => {
       content: (
         <div className="flex items-center justify-center w-full h-full p-2">
            <img 
-             src="https://ik.imagekit.io/uekohag7w/bnp/mojib.png" 
+             src="https://ik.imagekit.io/uekohag7w/bnp/mojib%20(3).gif" 
              alt="Campaign Special Banner" 
              className="w-full max-w-5xl h-auto max-h-[400px] object-contain animate-pop-in drop-shadow-2xl"
            />
